@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @mekzy3184
-- 👀 I’m interested in IT Security, Python Programming and more
-- 🌱 I’m currently learning new programming lang
-- 💞️ I’m looking to collaborate on database mgt
-- 📫 How to reach me here.
+### Emeka Anolue — Winnipeg, MB
 
-<!---
-mekzy3184/mekzy3184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior RF Optimization Engineer (11 years, 9mobile Nigeria) transitioning
+into data analysis and IT infrastructure in Canada. EIT with Engineers
+Geoscientists Manitoba.
+
+I work with network performance data — KPI analysis, PostgreSQL, Python,
+and the messy realities of telemetry that doesn't arrive clean.
+
+- 🔭 Currently: SQL analytics and Power BI dashboards over telecom KPI data
+- 🛠️ PostgreSQL · Python · Windows Server / Active Directory · Azure · AWS
+- 📫 emekanolue@gmail.com
+
